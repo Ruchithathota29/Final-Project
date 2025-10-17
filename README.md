@@ -10,7 +10,7 @@ The program will:
 - Compute its SHA-256 hash
 - Display the hash in hexadecimal format
 
-##All SHA-256 logic is written manually using standard bitwise operations.
+All SHA-256 logic is written manually using standard bitwise operations.
 
 ## Author
 Ruchitha Thota
